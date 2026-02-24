@@ -1,6 +1,6 @@
 # test-optim
 
-# Hybrid Microgrid Energy Management System (EMS) synergy
+# Hybrid Microgrid Energy Management System (EMS) System
 
 This project implements a hybrid forecasting + optimization Energy Management System (EMS) for a microgrid as atest-case.
 
